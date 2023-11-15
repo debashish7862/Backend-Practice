@@ -1,0 +1,1 @@
+code--------> call stack --------> node api --------> callback queue
